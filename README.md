@@ -8,8 +8,8 @@ This is a test program for DES424 (6522771896).
 * [Run program](#run-program)
 * [Output](#output)
 ## Required Software
-* Item 1
-* Item 2
+* GitHub
+* AWS Amplify
 * Item 3
 ## Run Program
 * xx xxx
