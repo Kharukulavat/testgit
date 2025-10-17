@@ -12,4 +12,4 @@ This is a test program for DES424 (6522771896).
 * AWS Amplify
 * Item 3
 ## Run Program
-* xx xxx
+* AWS
